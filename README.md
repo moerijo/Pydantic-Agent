@@ -1,58 +1,50 @@
-# Welcome to your Lovable project
+# Willkommen im Pydantic-Agent
 
-## Project info
+## Projektinformationen
 
-**URL**: https://lovable.dev/projects/6623133b-e90c-4ee8-8c65-64253b6a8f1c
+**URL**: https://https://github.com/moerijo/Pydantic-Agent/
 
-## How can I edit this code?
+## Wie kann ich diesen Code bearbeiten?
 
-There are several ways of editing your application.
+**Verwende deine bevorzugte IDE**
 
-**Use Lovable**
+Wenn du lokal mit deiner eigenen IDE arbeiten möchtest, kannst du dieses Repository klonen und Änderungen pushen. Änderungen, die gepusht werden, sind auch in Lovable sichtbar.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/6623133b-e90c-4ee8-8c65-64253b6a8f1c) and start prompting.
+Die einzige Voraussetzung ist, dass Node.js & npm installiert sind – [Installation mit nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
+Befolge diese Schritte:
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+# Schritt 1: Klone das Repository mithilfe der Git-URL des Projekts.
+git clone https://github.com/moerijo/Pydantic-Agent/
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Schritt 2: Wechsle in das Projektverzeichnis.
+cd Pydantic-Agent
 
-# Step 3: Install the necessary dependencies.
+# Schritt 3: Installiere die notwendigen Abhängigkeiten.
 npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Schritt 4: Starte den Entwicklungsserver mit automatischem Neuladen und einer Sofortvorschau.
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+**Bearbeite eine Datei direkt auf GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- Navigiere zu den gewünschten Dateien.
+- Klicke auf den "Edit"-Button (Stiftsymbol) oben rechts in der Dateiansicht.
+- Nimm deine Änderungen vor und committe sie.
 
-**Use GitHub Codespaces**
+**Verwende GitHub Codespaces**
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- Navigiere zur Hauptseite deines Repositorys.
+- Klicke auf den "Code"-Button (grüner Button) oben rechts.
+- Wähle den Reiter "Codespaces".
+- Klicke auf "New codespace", um eine neue Codespace-Umgebung zu starten.
+- Bearbeite Dateien direkt im Codespace und committe und pushe deine Änderungen, sobald du fertig bist.
 
-## What technologies are used for this project?
+## Welche Technologien werden für dieses Projekt verwendet?
 
-This project is built with .
+Dieses Projekt ist gebaut mit .
 
 - Vite
 - TypeScript
@@ -60,10 +52,10 @@ This project is built with .
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
+## Wie kann ich dieses Projekt bereitstellen?
 
-Simply open [Lovable](https://lovable.dev/projects/6623133b-e90c-4ee8-8c65-64253b6a8f1c) and click on Share -> Publish.
+Öffne einfach [Lovable](https://lovable.dev/projects/6623133b-e90c-4ee8-8c65-64253b6a8f1c) und klicke auf Share -> Publish.
 
-## I want to use a custom domain - is that possible?
+## Ich möchte eine eigene Domain verwenden – ist das möglich?
 
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+Wir unterstützen noch keine benutzerdefinierten Domains. Wenn du dein Projekt unter deiner eigenen Domain bereitstellen möchtest, empfehlen wir die Verwendung von Netlify. Sieh dir unsere Dokumentation für weitere Details an: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
