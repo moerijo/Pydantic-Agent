@@ -2,7 +2,7 @@
 
 ## Projektinformationen
 
-**URL**: https://https://github.com/moerijo/Pydantic-Agent/
+**URL**: https://github.com/moerijo/Pydantic-Agent/
 
 ## Wie kann ich diesen Code bearbeiten?
 
